@@ -13,7 +13,7 @@ What you get is a sort of kiosk of games that you can scroll through using your 
     + Game description
     + Number of total games + what entry you are viewing ("2/15")
 
-[Here's how it looks!](https://www.youtube.com/watch?v=WwnzwPHY1yI)
+[Here's how it looks!](https://www.youtube.com/watch?v=1sqFD52btIo)
 
 It's assumed you are using a bigscreen TV. So 1080p reoslution is hardcoded into the layout.
 
